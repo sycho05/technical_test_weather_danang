@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_get - 5 day forecast</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f73c5f4-9cc9-4d50-a5a2-29d2fa35f906</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2311d0bb-9ea7-4543-a8e6-8c0239ef3ce9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b88b4459-337f-4144-95c4-6291fa4f917b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>408358aa-3fe6-4d8b-b6fe-57a932aa1bb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'-6.300641'</defaultValue>
+      <description></description>
+      <id>2311d0bb-9ea7-4543-a8e6-8c0239ef3ce9</id>
+      <masked>false</masked>
+      <name>lat</name>
+   </variable>
+   <variable>
+      <defaultValue>'106.814095'</defaultValue>
+      <description></description>
+      <id>b88b4459-337f-4144-95c4-6291fa4f917b</id>
+      <masked>false</masked>
+      <name>lon</name>
+   </variable>
+   <variable>
+      <defaultValue>'5d752471d570e56898185f2fc1a180a8'</defaultValue>
+      <description></description>
+      <id>408358aa-3fe6-4d8b-b6fe-57a932aa1bb3</id>
+      <masked>false</masked>
+      <name>apiKey</name>
+   </variable>
+</TestCaseEntity>

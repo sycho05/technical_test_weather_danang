@@ -1,0 +1,47 @@
+{
+  "keywordFileContentHash": "506EB22E98594E80872CB502D17995E2",
+  "keywordClasses": [
+    {
+      "name": "generate",
+      "keywordMethods": [
+        {
+          "name": "decryptedText",
+          "parameters": [
+            {
+              "name": "encryptedText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "unixTime",
+          "parameters": [
+            {
+              "name": "date",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

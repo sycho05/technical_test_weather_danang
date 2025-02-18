@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_get - air polution</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d37b4c9-b5eb-4e37-bc46-075ad735aeeb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c30fec7-2c6e-4632-83a2-fa0d838768ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9b6125f-fe2a-4ae7-b265-86579473e4af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a08e9ace-a588-421f-8aba-27c44f084b14</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'-6.300641'</defaultValue>
+      <description></description>
+      <id>0c30fec7-2c6e-4632-83a2-fa0d838768ef</id>
+      <masked>false</masked>
+      <name>lat</name>
+   </variable>
+   <variable>
+      <defaultValue>'106.814095'</defaultValue>
+      <description></description>
+      <id>f9b6125f-fe2a-4ae7-b265-86579473e4af</id>
+      <masked>false</masked>
+      <name>lon</name>
+   </variable>
+   <variable>
+      <defaultValue>'5d752471d570e56898185f2fc1a180a8'</defaultValue>
+      <description></description>
+      <id>a08e9ace-a588-421f-8aba-27c44f084b14</id>
+      <masked>false</masked>
+      <name>apiKey</name>
+   </variable>
+</TestCaseEntity>
